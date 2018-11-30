@@ -35,9 +35,9 @@ spring:
     default-property-inclusion: non_null
   rabbitmq:
     host: zuihou.rabbitmq.host
-    port: 5672
-    password: guest
-    username: guest
+    port: 15672
+    password: xj
+    username: 123456
   redis:
     host: zuihou.redis.host
     port: 6379
